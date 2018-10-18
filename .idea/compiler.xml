@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="latte_common" />
+        <module name="latte_manager_entity" />
+        <module name="latte_manager_mapper" />
+        <module name="latte_manager_service" />
+        <module name="latte_manager_web" />
+        <module name="latte_redis" />
+        <module name="latte_rest" />
+        <module name="latte_search" />
+        <module name="latte_sso" />
+        <module name="LatteWeb" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/latte_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/latte_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/latte_manager/latte_manager_entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/latte_manager/latte_manager_mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/latte_manager/latte_manager_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/latte_manager/latte_manager_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/latte_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/latte_redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/latte_rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/latte_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/latte_sso" charset="UTF-8" />
+  </component>
+</project>
