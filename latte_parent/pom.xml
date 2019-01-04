@@ -36,6 +36,7 @@
         <mybatis-spring.version>1.2.2</mybatis-spring.version>
         <spring.version>5.0.10.RELEASE</spring.version>
         <druid.version>1.0.9</druid.version>
+        <mysql.version>8.0.13</mysql.version>
 
     </properties>
 
@@ -100,6 +101,13 @@
                 <groupId>com.alibaba</groupId>
                 <artifactId>druid</artifactId>
                 <version>${druid.version}</version>
+            </dependency>
+
+            <!--mysql依赖-->
+            <dependency>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <version>${mysql.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
